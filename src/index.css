@@ -3,27 +3,33 @@ body {
   padding: 0;
   font-family: "Lucida console";
 }
+
 .title {
   font-family: "Trebuchet MS";
   font-size: 5rem;
   color: rgba(144, 144, 144, 0.8);
 }
+
 .title,
 .subtitle {
-  margin: 5%;
+  margin: 0;
 }
+
 .App {
   text-align: center;
   margin-top: 10%;
 }
+
 .guyInfo {
   display: flex;
   align-items: center;
 }
+
 .guyLink {
   margin-left: 50px;
   text-transform: capitalize;
 }
+
 .img {
   height: 50px;
   margin-left: 15%;
@@ -33,6 +39,7 @@ body {
 th:hover {
   text-decoration: underline;
 }
+
 td {
   vertical-align: middle !important;
 }
