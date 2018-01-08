@@ -12,12 +12,12 @@ body {
 
 .title,
 .subtitle {
-  margin: 0;
+  margin: 3%;
 }
 
 .App {
   text-align: center;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .guyInfo {
